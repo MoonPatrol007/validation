@@ -1,0 +1,102 @@
+.page1 h1
+{
+	font-family: "Georgia", serif;
+	max-width: 600px;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: MediumBlue;
+
+}
+
+#userInput
+{
+
+	
+	font-size: 15px;
+	Margin: auto;
+	position: absolute;
+	top: 20%;
+	left: 25%;
+	padding: 10px;
+	
+}
+
+.page1 p 
+{
+	font-family: "Georgia", serif;
+	font-size: 20px;
+	text-align: center;
+	color: MediumBlue;
+	-webkit-background-clip: text;
+
+}
+
+#bg1 
+{
+	position: center-right;
+	top: 0; 
+	left: 0; 
+	
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+
+.page2 h1 
+{
+	font-family: "Audiowide", sans-serif;
+	max-width: 500px;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 80px;
+	text-align: center;
+	color: MediumBlue;
+
+}
+
+.page2 p 
+{
+	font-family: "Papyrus", Fantasy;
+	font-size: 18px;
+	Width: 500px;
+	border: 8px solid Forestgreen;
+	padding: 20px;
+	Margin: auto;
+}
+	
+.page2 button 
+{
+	
+	font-size: 15px;
+	Margin: auto;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	padding: 10px;
+}
+
+#bg2 
+{
+	position: center;
+	top: 0; 
+	left: 0; 
+	
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+	padding-top: 15px;
+}
+
+
+
+
+
+
+
+	
+
+
+
